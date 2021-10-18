@@ -5,7 +5,7 @@
 1. `roscore`
 2. `roslaunch crane_x7_bringup demo.launch fake_execution:=false`
 
-※ロボットが動かない場合は，`sudo chmod 666 /dev/ttyUSB0`を実行する
+　　※ロボットが動かない場合は，`sudo chmod 666 /dev/ttyUSB0`を実行する
 
 ## チェックリスト
 - [ ] 上記の2プログラムは起動しているか？
